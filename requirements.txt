@@ -1,0 +1,4 @@
+#Inotifywatch tools pre-requisites 
+#will check for updates and then install the tool
+
+sudo apt update && sudo apt upgrade -y && sudo apt install inotify-tools -y
